@@ -853,118 +853,118 @@
 "../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 852
 "../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uasset" 853
 "../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uexp" 854
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 855
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 856
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 857
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 858
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 859
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 860
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 861
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 862
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 863
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 864
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 865
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 866
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 867
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 868
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 869
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 855
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 856
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 857
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 858
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 859
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 860
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 861
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 862
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 863
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 864
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 865
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 866
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 867
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 868
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 869
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 870
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 871
 "../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 872
 "../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 873
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 874
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 875
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 874
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 875
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 876
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 877
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset" 878
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uexp" 879
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 880
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 881
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 882
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 883
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 884
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 885
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 886
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 887
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 888
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 889
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 890
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 891
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 892
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 893
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 894
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 895
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 896
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 897
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 898
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 899
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 900
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 901
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 902
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 903
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 904
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 905
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 906
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 907
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 908
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 909
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 910
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 911
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 912
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 913
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 914
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 915
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 916
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 917
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 918
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 919
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 920
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 921
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 922
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 923
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 924
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 925
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 926
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 927
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 928
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 929
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 930
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 931
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 932
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 933
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 934
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 935
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 936
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 937
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 938
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 939
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 940
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 941
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 942
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 943
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 944
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 945
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 946
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 947
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 948
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 949
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 950
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 951
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 952
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 953
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 954
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 955
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 956
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 957
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 958
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 959
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 960
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 961
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 962
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 963
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 964
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset" 965
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uexp" 966
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset" 878
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uexp" 879
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 880
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 881
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 882
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 883
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 884
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 885
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 886
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 887
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 888
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 889
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 890
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 891
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 892
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 893
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 894
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 895
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 896
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 897
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 898
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 899
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 900
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 901
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 902
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 903
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 904
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 905
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 906
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 907
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 908
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 909
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 910
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 911
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 912
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 913
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 914
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 915
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 916
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 917
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 918
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 919
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 920
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 921
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 922
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 923
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 924
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 925
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 926
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 927
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 928
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 929
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 930
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 931
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 932
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 933
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 934
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 935
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 936
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 937
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 938
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 939
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 940
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 941
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 942
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 943
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 944
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 945
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 946
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 947
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 948
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 949
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 950
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 951
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 952
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 953
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 954
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 955
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 956
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 957
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 958
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 959
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 960
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 961
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 962
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 963
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 964
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset" 965
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uexp" 966
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNE_oidn2-3-0_rt_hdr_calb_cnrm_large__dyn__fp16_opset11_ForwardAlpha.uasset" 967
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNE_oidn2-3-0_rt_hdr_calb_cnrm_large__dyn__fp16_opset11_ForwardAlpha.uexp" 968
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNE_oidn2-3-0_rt_hdr_calb_cnrm_large__dyn__fp16_opset11_DenoiseAlpha.uasset" 969
@@ -1064,37 +1064,37 @@
 "../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 1063
 "../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uasset" 1064
 "../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uexp" 1065
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 1066
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 1067
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 1068
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 1066
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 1067
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 1068
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1069
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1070
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1071
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1072
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 1073
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 1074
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 1075
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 1076
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 1077
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 1078
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 1079
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 1080
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 1081
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.ubulk" 1082
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" 1083
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uexp" 1084
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 1085
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 1086
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/M_Solid.uasset" 1087
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/M_Solid.uexp" 1088
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 1089
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 1090
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 1091
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 1092
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 1093
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 1094
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 1095
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 1096
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 1073
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 1074
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 1075
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 1076
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 1077
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 1078
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 1079
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 1080
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 1081
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.ubulk" 1082
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" 1083
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uexp" 1084
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 1085
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 1086
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/M_Solid.uasset" 1087
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/M_Solid.uexp" 1088
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 1089
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 1090
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 1091
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 1092
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 1093
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 1094
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 1095
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 1096
 "../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1097
 "../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1098
 "../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1099
@@ -1111,187 +1111,195 @@
 "../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1110
 "../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1111
 "../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1112
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow_Pressed.uasset" 1113
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow_Pressed.uexp" 1114
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange_Pressed.uasset" 1115
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange_Pressed.uexp" 1116
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow_Pressed.uasset" 1113
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow_Pressed.uexp" 1114
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange_Pressed.uasset" 1115
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange_Pressed.uexp" 1116
 "../../../Engine/Content/EngineResources/AICON-Green.uasset" 1117
 "../../../Engine/Content/EngineResources/AICON-Green.uexp" 1118
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Enums/E_MainMenuWidgets.uasset" 1119
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Enums/E_MainMenuWidgets.uexp" 1120
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange_Hovered.uasset" 1121
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange_Hovered.uexp" 1122
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed_Pressed.uasset" 1123
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed_Pressed.uexp" 1124
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange.uasset" 1125
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareOrange.uexp" 1126
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonPress.ubulk" 1127
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonPress.uasset" 1128
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonPress.uexp" 1129
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GI_AdvancedSession.uasset" 1130
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GI_AdvancedSession.uexp" 1131
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_DownArrow.ubulk" 1132
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_DownArrow.uasset" 1133
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_DownArrow.uexp" 1134
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-Bold.uexp" 1135
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-Bold.uasset" 1136
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-Bold.ufont" 1137
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-Bold_Font.uasset" 1138
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-Bold_Font.uexp" 1139
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed.uasset" 1140
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed.uexp" 1141
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed_Hovered.uasset" 1142
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareRed_Hovered.uexp" 1143
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow.uasset" 1144
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow.uexp" 1145
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonHover.ubulk" 1146
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonHover.uasset" 1147
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Audio/SFX_ButtonHover.uexp" 1148
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow_Hovered.uasset" 1149
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareYellow_Hovered.uexp" 1150
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_CreateSession.uasset" 1151
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_CreateSession.uexp" 1152
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Pressed.uasset" 1153
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Pressed.uexp" 1154
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal_Pressed.uasset" 1155
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal_Pressed.uexp" 1156
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen_Hovered.uasset" 1157
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen_Hovered.uexp" 1158
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Hovered.uasset" 1159
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Hovered.uexp" 1160
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Hovered.uasset" 1161
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Hovered.uexp" 1162
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen_Hovered.uasset" 1163
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen_Hovered.uexp" 1164
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen.uasset" 1165
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen.uexp" 1166
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/circular_loading.uasset" 1167
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/circular_loading.uexp" 1168
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen_Focused.uasset" 1169
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Images/IMG_InputBarGreen_Focused.uexp" 1170
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen_Pressed.uasset" 1171
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen_Pressed.uexp" 1172
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Pressed.uasset" 1173
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Pressed.uexp" 1174
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal.uasset" 1175
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal.uexp" 1176
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue.uasset" 1177
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue.uexp" 1178
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/usa_flag.uasset" 1179
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/usa_flag.uexp" 1180
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/china_flag.uasset" 1181
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/china_flag.uexp" 1182
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/france_flag.uasset" 1183
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/france_flag.uexp" 1184
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/japan_flag.uasset" 1185
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/japan_flag.uexp" 1186
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/germany_flag.uasset" 1187
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/germany_flag.uexp" 1188
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen.uasset" 1189
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareGreen.uexp" 1190
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/india_flag.uasset" 1191
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/india_flag.uexp" 1192
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/spain_flag.uasset" 1193
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/spain_flag.uexp" 1194
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/southkorea_flag.uasset" 1195
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Icons/southkorea_flag.uexp" 1196
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_ServerCard.uasset" 1197
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_ServerCard.uexp" 1198
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected.uasset" 1199
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_CheckboxBlue_Selected.uexp" 1200
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal_Hovered.uasset" 1201
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareTeal_Hovered.uexp" 1202
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_ServerBrowser.uasset" 1203
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_ServerBrowser.uexp" 1204
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-ExtraBold.uexp" 1205
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-ExtraBold.uasset" 1206
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-ExtraBold.ufont" 1207
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-ExtraBold_Font.uasset" 1208
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Fonts/Pretendard/Pretendard-ExtraBold_Font.uexp" 1209
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_DelayScreen.uasset" 1210
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_DelayScreen.uexp" 1211
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareBlack.uasset" 1212
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/Buttons/BTN_SquareBlack.uexp" 1213
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_MainMenu.uasset" 1214
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/UI/WBP_MainMenu.uexp" 1215
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/PC_AdvancedSession.uasset" 1216
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/PC_AdvancedSession.uexp" 1217
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" 1218
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Jump.uexp" 1219
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Look.uasset" 1220
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Look.uexp" 1221
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Move.uasset" 1222
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/Actions/IA_Move.uexp" 1223
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/IMC_Default.uasset" 1224
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Input/IMC_Default.uexp" 1225
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset" 1226
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uexp" 1227
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" 1228
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uexp" 1229
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 1230
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 1231
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset" 1232
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uexp" 1233
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset" 1234
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uexp" 1235
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset" 1236
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uexp" 1237
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset" 1238
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uexp" 1239
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 1240
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 1241
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset" 1242
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uexp" 1243
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset" 1244
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uexp" 1245
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset" 1246
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uexp" 1247
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset" 1248
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Land.uexp" 1249
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset" 1250
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uexp" 1251
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" 1252
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/ABP_Manny.uexp" 1253
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset" 1254
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Characters/Mannequins/Animations/ABP_Quinn.uexp" 1255
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 1256
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 1257
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GS_AdvancedSession.uasset" 1258
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GS_AdvancedSession.uexp" 1259
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GM_AdvancedSession.uasset" 1260
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GM_AdvancedSession.uexp" 1261
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/MenuMap.uexp" 1262
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/MenuMap.umap" 1263
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 1264
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 1265
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 1266
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 1267
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 1268
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 1269
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 1270
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 1271
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 1272
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 1273
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 1274
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 1275
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1276
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 1277
-"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 1278
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.ubulk" 1279
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1280
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1281
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GM_TransitionMaps.uasset" 1282
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/GM_TransitionMaps.uexp" 1283
-"../../../Engine/Content/BasicShapes/Cube.ubulk" 1284
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1285
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1286
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1287
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1288
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/MapBoxIndicator.uasset" 1289
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Blueprint/MapBoxIndicator.uexp" 1290
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map3.uexp" 1291
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map3.umap" 1292
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map2.uexp" 1293
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map2.umap" 1294
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map1.uexp" 1295
-"C:/Users/jerrypc/Documents/Unreal Projects/AdvancedTest0201/Content/Maps/Map1.umap" 1296
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Enums/E_MainMenuWidgets.uasset" 1119
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Enums/E_MainMenuWidgets.uexp" 1120
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange_Hovered.uasset" 1121
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange_Hovered.uexp" 1122
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed_Pressed.uasset" 1123
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed_Pressed.uexp" 1124
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange.uasset" 1125
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareOrange.uexp" 1126
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonPress.ubulk" 1127
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonPress.uasset" 1128
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonPress.uexp" 1129
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GI_AdvancedSession.uasset" 1130
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GI_AdvancedSession.uexp" 1131
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_DownArrow.ubulk" 1132
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_DownArrow.uasset" 1133
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_DownArrow.uexp" 1134
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-Bold.uexp" 1135
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-Bold.uasset" 1136
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-Bold.ufont" 1137
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-Bold_Font.uasset" 1138
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-Bold_Font.uexp" 1139
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed.uasset" 1140
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed.uexp" 1141
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed_Hovered.uasset" 1142
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareRed_Hovered.uexp" 1143
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow.uasset" 1144
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow.uexp" 1145
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonHover.ubulk" 1146
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonHover.uasset" 1147
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Audio/SFX_ButtonHover.uexp" 1148
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow_Hovered.uasset" 1149
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareYellow_Hovered.uexp" 1150
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_CreateSession.uasset" 1151
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_CreateSession.uexp" 1152
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple_Pressed.uasset" 1153
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple_Pressed.uexp" 1154
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple_Hovered.uasset" 1155
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple_Hovered.uexp" 1156
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple.uasset" 1157
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquarePurple.uexp" 1158
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_Settings.uasset" 1159
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_Settings.uexp" 1160
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Pressed.uasset" 1161
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Pressed.uexp" 1162
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal_Pressed.uasset" 1163
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal_Pressed.uexp" 1164
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen_Hovered.uasset" 1165
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen_Hovered.uexp" 1166
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Hovered.uasset" 1167
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Hovered.uexp" 1168
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Hovered.uasset" 1169
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected_Hovered.uexp" 1170
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen_Hovered.uasset" 1171
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen_Hovered.uexp" 1172
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen.uasset" 1173
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen.uexp" 1174
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/circular_loading.uasset" 1175
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/circular_loading.uexp" 1176
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen_Focused.uasset" 1177
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Images/IMG_InputBarGreen_Focused.uexp" 1178
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen_Pressed.uasset" 1179
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen_Pressed.uexp" 1180
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Pressed.uasset" 1181
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Pressed.uexp" 1182
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal.uasset" 1183
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal.uexp" 1184
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue.uasset" 1185
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue.uexp" 1186
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/usa_flag.uasset" 1187
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/usa_flag.uexp" 1188
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/china_flag.uasset" 1189
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/china_flag.uexp" 1190
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/france_flag.uasset" 1191
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/france_flag.uexp" 1192
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/japan_flag.uasset" 1193
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/japan_flag.uexp" 1194
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/germany_flag.uasset" 1195
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/germany_flag.uexp" 1196
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen.uasset" 1197
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareGreen.uexp" 1198
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/india_flag.uasset" 1199
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/india_flag.uexp" 1200
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/spain_flag.uasset" 1201
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/spain_flag.uexp" 1202
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/southkorea_flag.uasset" 1203
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Icons/southkorea_flag.uexp" 1204
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_ServerCard.uasset" 1205
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_ServerCard.uexp" 1206
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected.uasset" 1207
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_CheckboxBlue_Selected.uexp" 1208
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal_Hovered.uasset" 1209
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareTeal_Hovered.uexp" 1210
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_ServerBrowser.uasset" 1211
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_ServerBrowser.uexp" 1212
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-ExtraBold.uexp" 1213
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-ExtraBold.uasset" 1214
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-ExtraBold.ufont" 1215
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-ExtraBold_Font.uasset" 1216
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Fonts/Pretendard/Pretendard-ExtraBold_Font.uexp" 1217
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_DelayScreen.uasset" 1218
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_DelayScreen.uexp" 1219
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareBlack.uasset" 1220
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/Buttons/BTN_SquareBlack.uexp" 1221
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_MainMenu.uasset" 1222
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/UI/WBP_MainMenu.uexp" 1223
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/PC_AdvancedSession.uasset" 1224
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/PC_AdvancedSession.uexp" 1225
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" 1226
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Jump.uexp" 1227
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Look.uasset" 1228
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Look.uexp" 1229
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Move.uasset" 1230
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/Actions/IA_Move.uexp" 1231
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/IMC_Default.uasset" 1232
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Input/IMC_Default.uexp" 1233
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset" 1234
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uexp" 1235
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" 1236
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uexp" 1237
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 1238
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 1239
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset" 1240
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uexp" 1241
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset" 1242
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uexp" 1243
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset" 1244
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uexp" 1245
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset" 1246
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uexp" 1247
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 1248
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 1249
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset" 1250
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uexp" 1251
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset" 1252
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uexp" 1253
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset" 1254
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uexp" 1255
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset" 1256
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Land.uexp" 1257
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset" 1258
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uexp" 1259
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" 1260
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/ABP_Manny.uexp" 1261
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset" 1262
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Characters/Mannequins/Animations/ABP_Quinn.uexp" 1263
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 1264
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 1265
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GS_AdvancedSession.uasset" 1266
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GS_AdvancedSession.uexp" 1267
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GM_AdvancedSession.uasset" 1268
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GM_AdvancedSession.uexp" 1269
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/MenuMap.uexp" 1270
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/MenuMap.umap" 1271
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 1272
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 1273
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 1274
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 1275
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 1276
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 1277
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 1278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 1279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 1280
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 1281
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 1282
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 1283
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1284
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 1285
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 1286
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.ubulk" 1287
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1288
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1289
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GM_TransitionMaps.uasset" 1290
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/GM_TransitionMaps.uexp" 1291
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 1292
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1293
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1294
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1295
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1296
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/MapBoxIndicator.uasset" 1297
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Blueprint/MapBoxIndicator.uexp" 1298
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map3.uexp" 1299
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map3.umap" 1300
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map2.uexp" 1301
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map2.umap" 1302
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map1.uexp" 1303
+"C:/Users/jerrypc/Documents/Unreal Projects/RealCleanSession_UMG/Content/Maps/Map1.umap" 1304
